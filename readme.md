@@ -11,4 +11,6 @@ Run `sudo ./install.sh` to create a Python venv with all the required dependenci
 
 Run `./run.sh <satoshis/byte>`
 
+#### Warning
 
+I put this together in about 15 minutes, so there's minimal error checking. YMMV.
